@@ -1,0 +1,7 @@
+/Users/ajyoldhamala/Projects/quickTick/quickTick/obj/Debug/net7.0/quickTick.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ajyoldhamala/Projects/quickTick/quickTick/obj/Debug/net7.0/quickTick.AssemblyInfoInputs.cache
+/Users/ajyoldhamala/Projects/quickTick/quickTick/obj/Debug/net7.0/quickTick.AssemblyInfo.cs
+/Users/ajyoldhamala/Projects/quickTick/quickTick/obj/Debug/net7.0/quickTick.csproj.CoreCompileInputs.cache
+/Users/ajyoldhamala/Projects/quickTick/quickTick/obj/Debug/net7.0/quickTick.MvcApplicationPartsAssemblyInfo.cache
+/Users/ajyoldhamala/Projects/quickTick/quickTick/obj/Debug/net7.0/quickTick.RazorAssemblyInfo.cache
+/Users/ajyoldhamala/Projects/quickTick/quickTick/obj/Debug/net7.0/quickTick.RazorAssemblyInfo.cs
